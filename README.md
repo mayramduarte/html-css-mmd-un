@@ -7,8 +7,8 @@
 <p>Required Course - Internet Technologies 1 - Technologist Systems Analysis and Development - Uniube.</p>
 <p>Exercises practiced during the course and final evaluated project for approval in the discipline.</p>
 
-<p>Disciplina Obrigatória - Tecnologias Internet 1 - Tecnólogo Análise e Desenvolvimento de  Sistemas - Uniube.</p>
-<p>Exercícios praticados durante o curso e projeto final avaliativo para aprovação na disciplina.</p>
+<p>(Disciplina Obrigatória - Tecnologias Internet 1 - Tecnólogo Análise e Desenvolvimento de  Sistemas - Uniube.</p>
+<p>Exercícios praticados durante o curso e projeto final avaliativo para aprovação na disciplina.)</p>
 
 <h3>HTML and CSS</h3>
 
@@ -20,8 +20,7 @@
 
 <ul>
 <li><a href="https://mayramduarte.github.io/html-css-mmd-un/projeto-final
-/website/" target="_blank">Final Project(Projeto Final)</a></li>
-
+/website/" target="_blank">Final Project (Projeto Final)</a></li>
 </ul>
 
 <h2>Exercises (Exercícios)</h2>
