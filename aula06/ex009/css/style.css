@@ -1,0 +1,47 @@
+body {
+  background-color: aliceblue;
+  background-image: url(../imagens/butterfly.gif);
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-position: top right;
+}
+/* 
+Background-repeat
+repeat: repete a imagem na vertical e horizontal até o preenchimento da área do elemento;
+repeat-x: repete a imagem apenas no sentido horizontal;
+repeat-y: repete a imagem apenas no sentido vertical;
+no-repeat: a imagem é inserida apenas uma vez no plano de fundo. 
+
+Background-attachment
+
+
+scroll: The background image will scroll with the page. This is default
+fixed: The background image will not scroll with the page
+local: The background image will scroll with the element's contents
+initial: Sets this property to its default value. Read about initial
+inherit: Inherits this property from its parent element. Read about inherit
+
+
+Background-position
+A propriedade background-position indica a posição em que a imagem de fundo será inserida. Os valores possíveis são:
+
+left top: à esquerda superior;
+left center: à esquerda e ao centro;
+left bottom: à esquerda inferior;
+right top: à direita superior;
+right center: à direita e ao centro;
+right bottom: à direita inferior;
+center top: ao centro superior;
+center center: ao centro;
+center bottom: ao centro inferior;
+x% y%: porcentagem horizontal e porcentagem vertical;
+x-pos y-pos: valores fixos para as posições horizontal e vertical.
+*/
+
+h1 {
+  color: blue;
+}
+
+p#pr {
+  background-color: yellow;
+}

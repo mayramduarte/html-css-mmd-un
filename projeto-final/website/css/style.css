@@ -1,0 +1,16 @@
+body {
+  background-color: whitesmoke;
+  font-family: "Times New Roman", Times, serif;
+}
+h1 {
+  color: blue;
+}
+h2 {
+  color: blue;
+}
+h3 {
+  color: red;
+}
+img#underground {
+  opacity: 0.9;
+}

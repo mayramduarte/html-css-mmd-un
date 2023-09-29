@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Formulário</title>
+  </head>
+  <body>
+    <h1>Formulário</h1>
+    <form action="gravar.php" method="get">
+      <fieldset>
+        <legend>Dados Pessoais</legend>
+        Nome de usuário: <br />
+        <input
+          type="text"
+          name="name"
+          id="name"
+          size="20"
+          maxlength="30"
+          autofocus
+          required
+        />
+        <br />
+        <label for="senha">Senha:</label><br />
+        <input
+          type="password"
+          name="senha"
+          id="senha"
+          placeholder="Digite a sua senha"
+        />
+        <br />
+        Escolha um carro: <br />
+        <select name="carro" id="carro">
+          <option value="volvo">Volvo</option>
+          <option value="fiat">Fiat</option>
+          <option value="audi">Audi</option>
+        </select>
+        <br />
+        Qual o seu estilo musical? <br />
+        <input type="text" id="estilo" name="estilo" list="listaestilo" />
+        <datalist id="listaestilo">
+          <option value="rock">Rock</option>
+          <option value="samba">Samba</option>
+          <option value="jazz">Jazz</option>
+          <option value="mpb">MPB</option>
+        </datalist>
+        <br />
+        Sexo:
+       <!-- mesmo "name" para que um só seja selecionado -->
+        <input type="radio" name="genero" id="genero" value="masculino" />
+        Masculino
+        <input type="radio" name="genero" id="genero" value="feminino" />
+        Feminino
+        <br />
+        <p>Qual dos esportes abaixo você pratica?</p>
+        <input type="checkbox" name="esporte1" id="natacao" />Natação
+        <input type="checkbox" name="esporte2" id="volei" />Vôlei
+        <input type="checkbox" name="esporte3" id="futebol" />Futebol
+        <input type="checkbox" name="esporte4" id="tenis" />Tênis <br /><br>
+        Mensagem: <br />
+        <textarea name="mensagem" id="mensagem" cols="30" rows="10" placeholder="Digite aqui a sua mensagem"></textarea>
+       </textarea >
+        <br />
+        <input type="submit" value="Enviar" />
+      </fieldset>
+    </form>
+  </body>
+</html>

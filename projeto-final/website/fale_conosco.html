@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./css/style.css" />
+    <title>Fale Conosco</title>
+  </head>
+  <body>
+    <header>
+      <nav>
+        <!--Barra de Navegação-->
+        <a href="https://uniube.br/" title="Site Uniube" target="_blank"
+          ><img src="./imagens/uniube-logo.png" alt="Uniube Logo" width="100"
+        /></a>
+        |
+        <a href="index.html" title="Página Inicial">Início</a> |
+        <a href="links.html" title="Página Inglês Básico">Inglês Básico</a> |
+        <a href="imagens.html" title="Página Inglês Viagem">Inglês Viagem</a>
+        |
+        <a href="fale_conosco.html" title="Página Fale Conosco">Fale Conosco</a>
+        <hr />
+      </nav>
+    </header>
+    <section>
+      <h1>English for Life</h1>
+      <p>
+        Aprenda a base do inglês de uma vez por todas e tenha confiança ao se
+        comunicar!
+      </p>
+      <hr />
+    </section>
+    <section>
+      <h2>Fale Conosco</h2>
+      <form action="gravar.php" method="get">
+        <fieldset>
+          <legend>Dados</legend>
+          Nome:
+          <input
+            type="text"
+            name="fname"
+            id="fname"
+            size="20"
+            maxlength="30"
+            autofocus
+            required
+          />
+          Sobrenome:
+          <input
+            type="text"
+            name="lname"
+            id="lname"
+            size="20"
+            maxlength="30"
+            required
+          />
+          <br />
+          <br />
+          E-mail:
+          <input type="email" name="email" id="email" required /> <br /><br />
+          Onde você mora atualmente?
+          <input type="radio" name="pais" id="brasil" value="Brasil" />
+          Brasil
+          <input type="radio" name="pais" id="exterior" value="Exterior" />
+          Exterior
+          <br /><br />
+          Qual o seu nível de inglês? <br />
+          <select name="nivel" id="nivel">
+            <option value="basico">Básico</option>
+            <option value="intermediario">Intermediário</option>
+            <option value="avancado">Avançado</option>
+          </select>
+          <br />
+          <p>Qual(is) plano(s) de aula você tem interesse?</p>
+          <input type="checkbox" name="plano1" id="basicot" />Inglês Básico
+          Turma <input type="checkbox" name="plano2" id="basicop" />Inglês
+          Básico Particular
+          <input type="checkbox" name="plano3" id="viagemt" />Inglês Viagem
+          Turma <input type="checkbox" name="plano4" id="viagemp" />Inglês
+          Viagem Particular <br /><br />
+          Mensagem: <br />
+          <textarea
+            name="mensagem"
+            id="mensagem"
+            cols="50"
+            rows="10"
+            placeholder="Digite aqui a sua mensagem"
+          ></textarea>
+          <br />
+          <input type="submit" value="Enviar" />
+        </fieldset>
+      </form>
+    </section>
+    <footer>
+      <hr />
+      <p>English For Life &copy; 2023</p>
+    </footer>
+  </body>
+</html>
