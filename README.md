@@ -19,7 +19,7 @@
 <h2>Projects (Projetos)</h2>
 
 <ul>
-<li><a href="https://mayramduarte.github.io/html-css-mmd-un/projeto-final
+<li><a href="https://mayramduarte.github.io/html-css-mmd-un/projeto-final-mmd
 /website/" target="_blank">Final Project (Projeto Final)</a></li>
 </ul>
 
