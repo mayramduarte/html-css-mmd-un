@@ -4,7 +4,7 @@
 
 <h2>Topics (Conteúdo)</h2>
 
-<p>Required Course - Internet Technologies 1 - Technologist Systems Analysis and Development - Uniube.</p>
+<p>Required Course - Internet Technologies 1 - Technology Systems Analysis and Development - Uniube.</p>
 <p>Exercises practiced during the course and final evaluated project for approval in the discipline.</p>
 
 <p>(Disciplina Obrigatória - Tecnologias Internet 1 - Tecnólogo Análise e Desenvolvimento de  Sistemas - Uniube.</p>
