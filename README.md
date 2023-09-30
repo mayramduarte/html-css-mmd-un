@@ -26,8 +26,7 @@
 <h2>Exercises (Exercícios)</h2>
 
 <ul>
-<li><a href="https://mayramduarte.github.io/html-css-mmd-un/aula01
-/ex001/" target="_blank">Exercise-001 (Exercício-001)</a></li>
+<li><a href="https://mayramduarte.github.io/html-css-mmd-un/aula01/ex001/" target="_blank">Exercise-001 (Exercício-001)</a></li>
 <li><a href="https://mayramduarte.github.io/html-css-mmd-un/aula02
 /ex002/" target="_blank">Exercise-002 (Exercício-002)</a></li>
 <li><a href="https://mayramduarte.github.io/html-css-mmd-un/aula02
