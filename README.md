@@ -12,7 +12,7 @@
 
 <h3>HTML and CSS</h3>
 
-<p>Internet Fundamentals. Basics - Website, Page, URL. Basic HTML. Headings, Lists, Links, Relative or Absolute Path, Images, Tables, Forms. Basic CSS. Colors and Backgrounds, Fonts, Texts, Links. Class and Id. Span and Div. Margin and Padding. Floats. Element Positioning.</p>
+<p>Internet Fundamentals. Basic Concepts - Website, Page, URL. Basic HTML. Headings, Lists, Links, Relative or Absolute Path, Images, Tables, Forms. Basic CSS. Colors and Backgrounds, Fonts, Texts, Links. Class and Id. Span and Div. Margin and Padding. Floats. Element Positioning.</p>
 
 <p>Fundamentos da Internet. Conceitos Básicos - Site, Página, URL. HTML Básico. Cabeçalhos, Listas, Links, Caminho Relativo ou Absoluto, Imagens, Tabelas, Formulários. CSS Básico. Cores e Fundos, Fontes, Textos, Links. Classe e Id. Span e Div. Margin e Padding. Floats. Posicionamento de Elementos.</p>
 
